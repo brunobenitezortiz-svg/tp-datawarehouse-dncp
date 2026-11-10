@@ -1,4 +1,8 @@
-db/
+# Bases recreables y archivos locales
+/db/*.duckdb
+/db/*.wal
 __pycache__/
 *.pyc
 .venv/
+.env
+.DS_Store

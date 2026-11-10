@@ -1,0 +1,48 @@
+{
+  "fuentes": {
+    "awards": 22491,
+    "awa_suppliers": 22495,
+    "releases": 23324
+  },
+  "stg_awards": 22491,
+  "fact_esperada": 22079,
+  "rechazadas_unicas": 412,
+  "R01_fecha": 349,
+  "R02_monto": 65,
+  "R01_y_R02_solapadas": 2,
+  "R03_proveedor_excedente": 4,
+  "sin_comprador_en_fact": 14162,
+  "sin_etapa_en_fact": 8011,
+  "usd_aceptados": 54,
+  "pyg_aceptados": 22025,
+  "ruc_no_convencional_filas_fuente": 59,
+  "ruc_no_convencional_identificadores": 39,
+  "fact_unicidad": 22079,
+  "totales_por_moneda": {
+    "PYG": {
+      "adjudicaciones": 22025,
+      "monto": 33713670820419.0
+    },
+    "USD": {
+      "adjudicaciones": 54,
+      "monto": 230004864196.0
+    }
+  },
+  "por_anio": {
+    "2015": 96,
+    "2016": 75,
+    "2017": 168,
+    "2018": 201,
+    "2019": 376,
+    "2020": 1244,
+    "2021": 3366,
+    "2022": 4582,
+    "2023": 4429,
+    "2024": 7541,
+    "2025": 1
+  },
+  "proveedores_distintos_validos": 3334,
+  "compradores_distintos_validos": 178,
+  "estados_distintos_validos": 9,
+  "etapas_distintas_validas": 34
+}
